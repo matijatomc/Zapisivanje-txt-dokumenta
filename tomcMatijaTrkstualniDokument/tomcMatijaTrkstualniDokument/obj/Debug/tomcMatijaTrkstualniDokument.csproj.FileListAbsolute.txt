@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaTrkstualniDokument\tomcMatijaTrkstualniDokument\obj\Debug\tomcMatijaTrkstualniDokument.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaTrkstualniDokument\tomcMatijaTrkstualniDokument\bin\Debug\tomcMatijaTrkstualniDokument.exe.config
+C:\Users\Matija\source\repos\tomcMatijaTrkstualniDokument\tomcMatijaTrkstualniDokument\bin\Debug\tomcMatijaTrkstualniDokument.exe
+C:\Users\Matija\source\repos\tomcMatijaTrkstualniDokument\tomcMatijaTrkstualniDokument\bin\Debug\tomcMatijaTrkstualniDokument.pdb
+C:\Users\Matija\source\repos\tomcMatijaTrkstualniDokument\tomcMatijaTrkstualniDokument\obj\Debug\tomcMatijaTrkstualniDokument.exe
+C:\Users\Matija\source\repos\tomcMatijaTrkstualniDokument\tomcMatijaTrkstualniDokument\obj\Debug\tomcMatijaTrkstualniDokument.pdb
